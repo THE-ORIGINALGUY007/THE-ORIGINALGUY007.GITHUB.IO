@@ -5,10 +5,12 @@ H1 {
     padding-left: 20px;
     margin: auto;
     box-shadow: 0 0 25px 2PX chocolate;
-    margin-left: 400px;
-    margin-right: 400px;
+    /* margin-left: 400px; */
+    /* margin-right: 400px; */
     text-overflow: block;
     overflow-anchor: none;
+    width: 455px;
+
 
 }
 
@@ -41,12 +43,13 @@ H2 {
 }
 
 main {
-    margin:525px;
+    margin:auto;
     justify-content: center;
     align-items: center;
     margin-top: 0px;
     border-left: 55px;
     border-style: 10px double  rgb(13, 13, 199);
+    width: 20px;
 
 }
 #calculator {
